@@ -25,7 +25,7 @@ Before any analysis, the data is assessed for structure and readiness. Excluded 
 ## Validation approach
 
 - Core logic is protected against unintended change, and changes are re-verified before acceptance.
-- Validation against longitudinal history is a **future** step. It requires an archive of real periods and is not yet done.
+- Validation against longitudinal history is a **future** step. It requires an archive of historical periods and is not yet done.
 - Until then, forward-looking outputs are described as indicative.
 
 ## Limits

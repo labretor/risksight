@@ -16,4 +16,4 @@ All notable changes to the public case study are listed here. Dates are by month
 
 ### Notes
 - Status: Active Development.
-- Public demonstrations use synthetic or anonymized data only.
+- Public demonstrations use synthetic data only.

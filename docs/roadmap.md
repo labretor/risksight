@@ -29,7 +29,7 @@ Working, and under active development or validation.
 
 Concepts being evaluated. Not built.
 
-- Backtesting against a longitudinal archive of real periods
+- Backtesting against a longitudinal archive of historical periods
 - Control charts across many sequential periods
 - Scheduled, repeatable data intake and comparison
 - AI-assisted analyst workflows, such as drafting evidence summaries for human review

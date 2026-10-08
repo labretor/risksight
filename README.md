@@ -24,9 +24,9 @@ Data → Signals → Risk evidence → Exposure → Prioritization → Investiga
 |---|---|
 | Stage | **Active Development** |
 | Nature | Personal technology / product case study |
-| Data in this repository | Synthetic or anonymized demonstration data only |
+| Data in this repository | Synthetic demonstration data only |
 
-RiskSight is not presented as a commercial product, as production-ready software, or as a system deployed or owned by any organization.
+RiskSight is not presented as a commercial product, as production-ready software, or as an official product or deployment of any organization.
 
 ## Capabilities, kept separate
 
